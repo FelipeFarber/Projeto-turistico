@@ -1,0 +1,52 @@
+:root {
+font-family: "Open Sans", sans-serif;
+line-height: 150%;
+}
+.divider {
+  width: 100%;
+  height: 1px;
+  margin: 36px 0;
+  background-color: #d9d9d9;
+}
+.headline p{
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: bold; 
+  color: #e1624f;
+  text-transform: uppercase; 
+}
+.subtitle {
+  font-size: 16px;
+  line-height: 22px;
+  font-style: italic; 
+  text-align: center;
+  color: #333333;
+  margin-top: 24px;
+}
+main img {
+  border-radius: 28px;
+  width: 100%; 
+  box-sizing: border-box;
+  align-self: stretch;
+}
+body {
+  background-color: #F5F4F0;
+}
+.description {
+  text-align: center;
+}
+strong .historia {
+  color: #0C51A7;
+}
+strong .familia {
+  color: #E95E10;
+}
+strong .orçamento {
+  color: #E5245E;
+}
+footer {
+  text-align: center;
+  padding-bottom: 48px;
+  vertical-align: auto;
+}
+
